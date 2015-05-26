@@ -1,0 +1,10 @@
+{
+  "name": "http",
+  "version": "0.0.1",
+  "description": "Testing http protocol.",
+  "main": "index.html",
+  "node-remote": "http://localhost:3000",
+  "window": {
+    "title": "Testing http protocol"
+  }
+}
